@@ -1,0 +1,22 @@
+{
+  "name": "swap-tokens-automation",
+  "version": "1.0.0",
+  "description": "Automated token swapping script using ethers.js",
+  "main": "swap_tokens_automated.js",
+  "scripts": {
+    "start": "node swap_tokens_automated.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "colors": "^1.4.0",
+    "ethers": "^6.6.2"
+  },
+  "keywords": [
+    "crypto",
+    "automation",
+    "token-swap",
+    "ethers"
+  ],
+  "author": "Ansh1008dcac",
+  "license": "ISC"
+}
